@@ -1,5 +1,7 @@
 # The Journey Of The Fool（愚人之旅）
 
+[toc]
+
 ## 游戏的类型
 Pc端像素风格2D游戏，幻想RPG游戏。内置洞穴横版解密。
 ## 游戏的风格
