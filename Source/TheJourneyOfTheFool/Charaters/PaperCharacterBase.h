@@ -15,6 +15,8 @@ class THEJOURNEYOFTHEFOOL_API APaperCharacterBase : public APaperCharacter
 	GENERATED_BODY()
 
 public:
+	APaperCharacterBase();
+	
 	UPROPERTY(EditAnywhere, Category = "Character Attribute")
 	float MaxHealth;
 };
