@@ -13,7 +13,5 @@ UCLASS()
 class THEJOURNEYOFTHEFOOL_API APlayerCharacter : public APaperCharacterBase
 {
 	GENERATED_BODY()
-
-public:
-	APlayerCharacter();
+	
 };

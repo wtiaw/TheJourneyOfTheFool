@@ -3,6 +3,3 @@
 
 #include "PlayerCharacter.h"
 
-APlayerCharacter::APlayerCharacter()
-{
-}
